@@ -1,6 +1,4 @@
-Here's a README.md file for your "Asky" app:
 
-```markdown
 # Asky
 
 Asky is an AI chatbot application developed using Kotlin and Jetpack Compose. It leverages the Gemini AI API to provide users with text-based queries and image processing capabilities.
